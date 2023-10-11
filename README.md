@@ -1,6 +1,6 @@
 
 # Pizza-Party
-<img src = "https://github.com/https://github.com/Rakesh9901491946/Pizza-Party/blob/main/images/istockphoto-1349560406-612x612.jpg"  />
+<img src = "https://github.com/https://github.com/Rakesh9901491946/Pizza-Party/blob/main/images/images/istockphoto-1349560406-612x612.jpg"  />
 # Ingredients
 
 ## Note:
